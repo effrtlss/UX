@@ -1,2 +1,2 @@
 # UX
-This is a repository to store UX design work. 
+This is a repository to store my UX design work. 
